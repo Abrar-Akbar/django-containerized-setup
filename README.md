@@ -1,2 +1,2 @@
 # django-containerized-setup
-Deploy a Django application containerized with PostgreSQL database using Docker
+eploy a Django application containerized with PostgreSQL database using Docker
